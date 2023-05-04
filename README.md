@@ -415,6 +415,6 @@
     ```
 
 
-You have seen how to create an application on Kubernetes using pods and services and how to manage a collection of pods, like a web front-end using a deployment.
+You have to create an application on Kubernetes using pods and services and to manage a collection of pods, like a web front-end using a deployment.
 
 
