@@ -1,4 +1,4 @@
-# Deploy a Sample web application in Kubernetes and Docker 
+# Deploy a web application in Kubernetes and Docker 
 
  To deploy a very simple web application that uses a data backend  You don't need to install **any** software, just point your browser at the kubernetes playground and follow along with the steps.
 
